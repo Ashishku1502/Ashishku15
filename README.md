@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer Engineer(SDE-1) from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishkumar1502&label=Profile%20views&color=0e75b6&style=flat" alt="ashishkumar1502" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishku15&label=Profile%20views&color=0e75b6&style=flat" alt="ashishk15"/> </p>
 
 <p align="left"> <a href="https://x.com/ashishku1502" target="blank"><img src="https://img.shields.io/twitter/follow/ashishku1502?logo=twitter&style=for-the-badge" alt="ashishku1502" /></a> </p>
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ashishk93449907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashishk93449907" height="30" width="40" /></a>
+<a href="https://x.com/ashishku1502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashishku1502" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashish-kumar-a642bb158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-kumar-a642bb158" height="30" width="40" /></a>
 <a href="https://instagram.com/ashishshrivastava1502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/imashishk15/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ashishk2323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashishk2323" height="30" width="40" /></a>
