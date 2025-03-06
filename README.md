@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishkumar1502&label=Profile%20views&color=0e75b6&style=flat" alt="ashishkumar1502" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ashishk93449907" target="blank"><img src="https://img.shields.io/twitter/follow/ashishk93449907?logo=twitter&style=for-the-badge" alt="ashishk93449907" /></a> </p>
+<p align="left"> <a href="https://x.com/ashishku1502" target="blank"><img src="https://img.shields.io/twitter/follow/ashishk93449907?logo=twitter&style=for-the-badge" alt="ashishk93449907" /></a> </p>
 
-- 🔭 I’m currently working on [Foody Zone](https://www.figma.com/file/rephrU2FVgN8MFz6XhnP51/Learn-React-with-10-Projects?type=design&node-id=343-53&t=6WELmKB9oX66NYBS-0) || [CookR-Recipe](https://ashishkumar1502.github.io/CookR-Recipe-app/)
+- 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning **Node.js,AWS**
+- 🌱 I’m currently learning **Typescript, Vuejs**
 
 - 💬 Ask me about **ashishkU1502@gamil.com**
 
