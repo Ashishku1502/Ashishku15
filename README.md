@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishkumar1502&label=Profile%20views&color=0e75b6&style=flat" alt="ashishkumar1502" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ashishk93449907" target="blank"><img src="" alt="ashishk93449907" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ashishk93449907" target="blank">https://img.shields.io/twitter/follow/ashishk93449907?logo=twitter&style=for-the-badge<img src="" alt="ashishk93449907" /></a> </p>
 
 - 🔭 I’m currently working on 
 
