@@ -1,19 +1,20 @@
 <h1 align="center">Hey, 👋, I'm Ashish Kumar</h1>
-<h3 align="center">A Passionate Full-Stack-Developer From India</h3>
+<h3 align="center">A passionate Software Developer Engineer(SDE-1) from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishkumar1502&label=Profile%20views&color=0e75b6&style=flat" alt="ashishkumar1502" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ashishk93449907" target="blank">https://img.shields.io/twitter/follow/ashishk93449907?logo=twitter&style=for-the-badge<img src="" alt="ashishk93449907" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ashishk93449907" target="blank"><img src="https://img.shields.io/twitter/follow/ashishk93449907?logo=twitter&style=for-the-badge" alt="ashishk93449907" /></a> </p>
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on [Foody Zone](https://www.figma.com/file/rephrU2FVgN8MFz6XhnP51/Learn-React-with-10-Projects?type=design&node-id=343-53&t=6WELmKB9oX66NYBS-0) || [CookR-Recipe](https://ashishkumar1502.github.io/CookR-Recipe-app/)
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning **Node.js,AWS**
 
-- 💬 Ask me about **ashishku1502@gmail.com**
+- 💬 Ask me about **ashishkU1502@gamil.com**
 
-- 📄 Know about my experiences ****
-- ⚡ Fun fact **I am Verry Funny**
+- 📄 Know about my experiences 
+
+- ⚡ Fun fact **I am Very Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
