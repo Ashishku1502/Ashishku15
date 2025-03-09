@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Typescript, Vuejs**
 
-- 💬 Ask me about **ashishkU1502@gamil.com**
+- 💬 Ask me about **ashishku1502@gamil.com**
 
 - 📄 Know about my experiences 
 
