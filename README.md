@@ -175,7 +175,7 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <br/>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;<b> Stats </b>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <div align=center>
   <img width=330 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ashishku1502&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
@@ -187,7 +187,6 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <a href="https://Ashishku15.in"><img src="https://api.daily.dev/devcards/cf5f5602012c452cb9f62160dc185527.png?r=9qu" width="260" alt="Ashish Kumar Dev Card"/></a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
 
 <!-- <p align="center">Made with ❤️ in India</p> -->
