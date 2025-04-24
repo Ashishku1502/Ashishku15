@@ -184,7 +184,8 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 </div>
 
 <div align=center>
-  <a href="https://Ashishku15.in"><img src="![Uploading IMG-20250131-WA0026.jpg…]()
+  <a href="https://Ashishku15.in"><img src="![IMG-20250131-WA0026](https://github.com/user-attachments/assets/9ecd3dbc-7c64-457f-9131-9f0106426eaa)
+
 " width="260" alt="Ashish Kumar Dev Card"/></a>
 </div>
 
