@@ -58,7 +58,7 @@
 
 - 👨‍💻 All of my projects are available at -Yes
 
-- 📝 I regularly write articles on [aayushbharti.in/blog](https://aayushbharti.in/blog)
+- 📝 I regularly write articles on Ashishk15.in
 
 - 💬 Ask me about ** Recat.js, framer motion, node.js**
 
@@ -95,17 +95,8 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <p>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D"/>
-<img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
-<img alt="Svelte" src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white"/>
 <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img alt="RxJS" src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" />
-<img alt="Vue.js" src="https://img.shields.io/badge/vuex-%2335495e.svg?style=for-the-badge&logo=vuex&logoColor=%234FC08D"/>
-<img alt="Pwa" src="https://img.shields.io/badge/pwa-%23593d88.svg?style=for-the-badge&logo=pwa&logoColor=white"/>
-<img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="GraphQL Client" src="https://img.shields.io/badge/graphql%20Client-%23563D7C.svg?style=for-the-badge&logo=graphql&logoColor=white"/>
-<img alt="NuxtJS" src="https://img.shields.io/badge/NuxtJS-black.svg?style=for-the-badge&logo=Nuxt.JS&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
@@ -190,10 +181,10 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p> -->
 
-<!--        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AayushBharti&show_icons=true&locale=en&layout=compact" alt="AayushBharti" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AayushBharti&show_icons=true&locale=en" alt="AayushBharti" /></p>
+<!--        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashishku1502&show_icons=true&locale=en&layout=compact" alt="Ashishku1502" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AshishKu1502&show_icons=true&locale=en" alt="Ashishku1502" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AayushBharti&" alt="AayushBharti" /></p>            -->
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AayushBharti&" alt="Ashishku1502" /></p>            -->
 <!-- <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
