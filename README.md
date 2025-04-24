@@ -29,17 +29,17 @@
 <br/>
 <!-- [![Hello programmer Welcome to my profile](https://custom-icon-badges.demolab.com/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/Ashishku1502)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Ashishku1502)
-[![GitHub Streak](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DAayushBharti%26type%3Djson)](https://github.com/Ashishku1502)
-[![Last Commit](https://custom-icon-badges.demolab.com/github/last-commit/AayushBharti/AayushBharti?style=plastic&logo=history)](https://github.com/Ashishku1502/commits/master)
+[![GitHub Streak](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DAshishku1502%26type%3Djson)](https://github.com/Ashishku1502)
+[![Last Commit](https://custom-icon-badges.demolab.com/github/last-commit/Ashishku1502/Ashishku1502?style=plastic&logo=history)](https://github.com/Ashishku1502/commits/master)
 [![Awesome Contributors](https://custom-icon-badges.demolab.com/github/contributors/Ashishku1502/Ashishku1502?label=Awesome%20Contributors&style=plastic&logo=heart-fill)](https://github.com/Ashishku1502/Ashishku1502/graphs/contributors)
 [![Today's Profile Visitors](https://hits.sh/github.com/Ashishku1502/Ashishku1502.svg?view=today-total&label=Today's%20Profile%20View&extraCount=0&labelColor=fe3757&logo=github)](https://github.com/Ashishku1502)
 [![Profile Visitors](https://hits.sh/github.com/AayushBharti/Ashishku1502.svg?label=Total%20Profile%20View&extraCount=0&color=fe3757&labelColor=bf11cc&logo=github)](https://github.com/Ashishku1502)
 [![GitHub followers](https://custom-icon-badges.demolab.com/github/followers/Ashishku1502?style=social&logo=followers)](https://github.com/Ashishku1502?tab=followers)
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=orange&logo=leetcode&logoColor=black&label=Solved&query=solvedOverTotal&url=https://leetcode-badge.vercel.app/api/users/Ashishku15)](https://leetcode.com/Ashishku15) -->
 <!-- [![wakatime](https://wakatime.com/badge/user/8821fc28-7662-4c43-9766-efd845f8957f.svg?style=for-the-badge)](https://wakatime.com/@aayushbharti) -->
-<!-- [![wakatime](https://wakatime.com/badge/user/8821fc28-7662-4c43-9766-efd845f8957f.svg?style=for-the-badge)](https://aayushbharti.in) -->
+<!-- [![wakatime](https://wakatime.com/badge/user/8821fc28-7662-4c43-9766-efd845f8957f.svg?style=for-the-badge)](https://Ashishku1502.in) -->
 
-[![Visits Badge](https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge)](https://aayushbharti.in)
+[![Visits Badge](https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge)](https://ashishku1502.in)
 <span>
 <a href="https://www.linkedin.com/in/ashish-kumar-a39a17345/" target="_blank"><img alt="LinkedIn" align="right" width="40" src="./assets/linkedin.svg" /></a>
 <a href="https://x.com/ashishku1502" target="_blank"><img alt="X/Twitter" align="right" width="40" src="./assets/twitter.svg" /></a>
@@ -58,7 +58,7 @@
 
 - 👨‍💻 All of my projects are available at -Yes
 
-- 📝 I regularly write articles on Ashishk15.in
+- 📝 I regularly write articles on Ashishk15
 
 - 💬 Ask me about ** Recat.js, framer motion, node.js**
 
@@ -72,7 +72,7 @@
 <p align="left">
 <!-- <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,postman,vscode,webstorm,vercel,vite,powershell,bash,linux,mysql,md,firebase,cloudflare,java,c,py"/> -->
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,npm,git,github,nodejs,prisma,mongodb,postman,vscode,webstorm,linux,docker)]
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,npm,git,github,nodejs,prisma,mongodb,postman,vscode,linux,docker)]
 
   <!-- jest -->
 </p>
