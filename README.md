@@ -1,6 +1,6 @@
  <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> -->
 
-<!-- <h1 align="center"><a href="https://aayushbharti.in/" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Hello+%3Ccoders!%2F%3E%2C+I'm+Aayush+Bharti" alt="Hey there 🙋‍♂️, I'm Aayush Bharti" /></a></h1> -->
+<!-- <h1 align="center"><a href="https://aayushbharti.in/" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Hello+%3Ccoders!%2F%3E%2C+I'm+Aayush+Bharti" alt="Hey there 🙋‍♂️, I'm Ashish Kumar" /></a></h1> -->
 
   <a href="https://aayushbharti.in/">
     <img
@@ -52,17 +52,17 @@
 <a href="https://aayushbharti.in/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
 <h3>A Full Stack Engineer</h3>
 
-- 🔭 I'm currently working on [aayushbharti.in](https://aayushbharti.in)
+- 🔭 I'm currently working on [Prime Trucks and Auto Service Pvt.Ltd ]
 
-- 🌱 I'm currently learning **Expo**
+- 🌱 I'm currently learning * Typescript 
 
-- 👨‍💻 All of my projects are available at [https://aayushbharti.in/work](https://aayushbharti.in/work)
+- 👨‍💻 All of my projects are available at -Yes
 
 - 📝 I regularly write articles on [aayushbharti.in/blog](https://aayushbharti.in/blog)
 
-- 💬 Ask me about **next.js, typescript, framer motion, node.js**
+- 💬 Ask me about ** Recat.js, framer motion, node.js**
 
-- 📫 How to reach me **<hello@aayushbharti.in>**
+- 📫 How to reach me **<ashishku1502@gmail.com>**
 
 <br/>
 
@@ -72,7 +72,7 @@
 <p align="left">
 <!-- <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,postman,vscode,webstorm,vercel,vite,powershell,bash,linux,mysql,md,firebase,cloudflare,java,c,py"/> -->
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,pnpm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,mysql,jest,postman,vscode,webstorm,vercel,vite,bash,linux,md,cloudflare,java,c,py,docker)](https://aayushbharti.in)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,npm,git,github,nodejs,prisma,mongodb,postman,vscode,webstorm,linux,docker)]
 
   <!-- jest -->
 </p>
@@ -120,10 +120,6 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <p>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-<img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-<img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
-<img alt="Fastify" src="https://img.shields.io/badge/fastify-%1212234E.svg?style=for-the-badge&logo=fastify&logoColor=white" />
-<img alt="GraphQL Server" src="https://img.shields.io/badge/graphql%20Server-%23563D7C.svg?style=for-the-badge&logo=graphql&logoColor=white"/>
 </p>
 
 ### 👉 Programming Language
@@ -131,20 +127,13 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <p>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="C" src="https://img.shields.io/badge/C-%235C6BC0.svg?style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
 ### 👉 Database
 
 <p>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
-<img alt="neo4j" src ="https://img.shields.io/badge/neo4j-%2307405e.svg?style=for-the-badge&logo=neo4j&logoColor=white"/>
 </p>
 
 ### 👉 Unit Testing
@@ -161,15 +150,12 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
-<img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>
 </p>
 <!--
 ### 👉 Others
 <!--
 <p>
-<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/>
 <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
