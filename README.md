@@ -184,7 +184,7 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 </div>
 
 <div align=center>
-  <a href="https://Ashishku15.in"><img src="https://api.daily.dev/devcards/cf5f5602012c452cb9f62160dc185527.png?r=9qu" width="260" alt="Ashish Kumar Dev Card"/></a>
+  <a href="https://Ashishku15.in"><img src="" width="260" alt="Ashish Kumar Dev Card"/></a>
 </div>
 
 <br/>
