@@ -39,7 +39,7 @@
 <!-- [![wakatime](https://wakatime.com/badge/user/8821fc28-7662-4c43-9766-efd845f8957f.svg?style=for-the-badge)](https://wakatime.com/@ashishku1502) -->
 <!-- [![wakatime](https://wakatime.com/badge/user/8821fc28-7662-4c43-9766-efd845f8957f.svg?style=for-the-badge)](https://Ashishku1502.in) -->
 
-[![Visits Badge](https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge)](https://ashishku1502.in)
+[![Visits Badge](https://komarev.com/ghpvc/?username=Ashishku15&label=Profile%20views&color=red&style=for-the-badge)](https://ashishku1502.in)
 <span>
 <a href="https://www.linkedin.com/in/ashish-kumar-a39a17345/" target="_blank"><img alt="LinkedIn" align="right" width="40" src="./assets/linkedin.svg" /></a>
 <a href="https://x.com/ashishku1502" target="_blank"><img alt="X/Twitter" align="right" width="40" src="./assets/twitter.svg" /></a>
@@ -194,7 +194,7 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!-- <p align="center">Made with ❤️ in India</p> -->
 
   <!-- <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aayushbharti&layout=compact&theme=shadow_blue&hide=Other&title_color=84C2C0&bg_color=00000000&text_color=DEDEDE&border_color=00000000">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ashishku15&layout=compact&theme=shadow_blue&hide=Other&title_color=84C2C0&bg_color=00000000&text_color=DEDEDE&border_color=00000000">
   <a href="https://github.com/Ashishku15/Ashishku15"><img alt="Ashishku15 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Ashishku15&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
   </a>
   </div> -->
