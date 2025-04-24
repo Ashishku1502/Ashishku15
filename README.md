@@ -42,8 +42,9 @@
 [![Visits Badge](https://komarev.com/ghpvc/?username=Ashishku15&label=Profile%20views&color=red&style=for-the-badge)](https://ashishku1502.in)
 <span>
 <a href="https://www.linkedin.com/in/ashish-kumar-a39a17345/" target="_blank"><img alt="LinkedIn" align="right" width="40" src="./assets/linkedin.svg" /></a>
-<a href="https://x.com/ashishku1502" target="_blank"><img alt="X/Twitter" align="right" width="40" src="./assets/twitter.svg" /></a>
-&#8287;&#8287;
+
+<a href="https://x.com/ashishku1502" target="_blank"><img alt="X/Twitter" align="right" width="40" src="./assets/x.svg" /></a>
+
 <a href="https://github.com/ashishku1502" target="_blank"><img alt="Github" align="right" width="40" src="./assets/github.svg" /></a>
 </span>
 
