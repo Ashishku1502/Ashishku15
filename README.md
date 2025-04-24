@@ -2,7 +2,7 @@
 
 <!-- <h1 align="center"><a href="https://aayushbharti.in/" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Hello+%3Ccoders!%2F%3E%2C+I'm+Aayush+Bharti" alt="Hey there 🙋‍♂️, I'm Ashish Kumar" /></a></h1> -->
 
-  <a href="https://aayushbharti.in/">
+  <a href="https://ashishku1502.in/">
     <img
       alt="Ashish Kumar"
       src="./assets/github-cover-sm.jpg"
@@ -35,7 +35,7 @@
 [![Today's Profile Visitors](https://hits.sh/github.com/Ashishku1502/Ashishku1502.svg?view=today-total&label=Today's%20Profile%20View&extraCount=0&labelColor=fe3757&logo=github)](https://github.com/Ashishku1502)
 [![Profile Visitors](https://hits.sh/github.com/AayushBharti/Ashishku1502.svg?label=Total%20Profile%20View&extraCount=0&color=fe3757&labelColor=bf11cc&logo=github)](https://github.com/Ashishku1502)
 [![GitHub followers](https://custom-icon-badges.demolab.com/github/followers/Ashishku1502?style=social&logo=followers)](https://github.com/Ashishku1502?tab=followers)
-[![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=orange&logo=leetcode&logoColor=black&label=Solved&query=solvedOverTotal&url=https://leetcode-badge.vercel.app/api/users/aayushbharti)](https://leetcode.com/aayushbharti) -->
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=orange&logo=leetcode&logoColor=black&label=Solved&query=solvedOverTotal&url=https://leetcode-badge.vercel.app/api/users/Ashishku15)](https://leetcode.com/Ashishku15) -->
 <!-- [![wakatime](https://wakatime.com/badge/user/8821fc28-7662-4c43-9766-efd845f8957f.svg?style=for-the-badge)](https://wakatime.com/@aayushbharti) -->
 <!-- [![wakatime](https://wakatime.com/badge/user/8821fc28-7662-4c43-9766-efd845f8957f.svg?style=for-the-badge)](https://aayushbharti.in) -->
 
@@ -49,7 +49,7 @@
 
 <!-- <h2>Hi 👋, my name is Ashish Kumar</h2> -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<a href="https://aayushbharti.in/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
+<a href="https://Ashishku15.in/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
 <h3>A Full Stack Engineer</h3>
 
 - 🔭 I'm currently working on [Prime Trucks and Auto Service Pvt.Ltd ]
