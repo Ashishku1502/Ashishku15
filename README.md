@@ -4,14 +4,14 @@
 
   <a href="https://aayushbharti.in/">
     <img
-      alt="Aayush Bharti"
+      alt="Ashish Kumar"
       src="./assets/github-cover-sm.jpg"
       width="100%"
     />
   </a>
 <!-- <div align="center" style="margin: 22px 0; display: flex; justify-content: center; align-items: center;">
   <span style="font-size: 1.4rem; font-weight: bold; display: inline-block; vertical-align: middle;">
-    Hi, I'm Aayush Bharti,
+    Hi, I'm Ashish Kumar,
   </span>
   <span style="display: inline-block; vertical-align: middle;">
     <img
